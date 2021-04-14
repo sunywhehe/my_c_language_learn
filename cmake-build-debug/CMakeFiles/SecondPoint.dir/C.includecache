@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day2/Array.c
+stdio.h
+-
+
+C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day2/SecondPoint.c
+stdio.h
+-
+

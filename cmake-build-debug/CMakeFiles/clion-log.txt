@@ -1,0 +1,24 @@
+C:\Users\sunyouwei\CMake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\sunyouwei\sunyouwei\ndk\c\first_test
+    -- src/main.c will be compiled to bin/main
+    -- src/Change.c will be compiled to bin/Change
+    -- src/DataType.c will be compiled to bin/DataType
+    -- src/Point.c will be compiled to bin/Point
+    -- src/Array.c will be compiled to bin/Array
+    -- src/ArrayPoint.c will be compiled to bin/ArrayPoint
+    -- src/MorePoints.c will be compiled to bin/MorePoints
+    -- src/SecondPoint.c will be compiled to bin/SecondPoint
+    -- src/MemoryTest.c will be compiled to bin/MemoryTest
+    -- src/StringCastTest.c will be compiled to bin/StringCastTest
+    -- src/StringCompare.c will be compiled to bin/StringCompare
+    -- src/StringFInd.c will be compiled to bin/StringFInd
+    -- src/StringTest.c will be compiled to bin/StringTest
+    -- src/EnumCast.c will be compiled to bin/EnumCast
+    -- src/EnumTest1.c will be compiled to bin/EnumTest1
+    -- src/StructTest.c will be compiled to bin/StructTest
+    -- src/StructTest2.c will be compiled to bin/StructTest2
+    -- src/FileCopy.c will be compiled to bin/FileCopy
+    -- src/FileTest1.c will be compiled to bin/FileTest1
+    -- src/FileTest2.c will be compiled to bin/FileTest2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug

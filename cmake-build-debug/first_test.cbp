@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="first_test"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ArrayPoint">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/ArrayPoint.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArrayPoint"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ArrayPoint/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/ArrayPoint.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArrayPoint/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataType">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/DataType.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataType"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataType/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/DataType.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataType/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Change">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Change.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 Change"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Change/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Change.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 Change/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SecondPoint">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/SecondPoint.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 SecondPoint"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SecondPoint/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/SecondPoint.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 SecondPoint/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Point">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Point.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 Point"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Point/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Point.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 Point/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MemoryTest">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/MemoryTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 MemoryTest"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MemoryTest/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/MemoryTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 MemoryTest/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Array">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Array.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 Array"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Array/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Array.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 Array/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FileTest2">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/FileTest2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileTest2"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FileTest2/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/FileTest2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileTest2/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MorePoints">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/MorePoints.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 MorePoints"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MorePoints/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/MorePoints.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 MorePoints/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StringFInd">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/StringFInd.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 StringFInd"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StringFInd/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/StringFInd.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 StringFInd/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StringCastTest">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/StringCastTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 StringCastTest"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StringCastTest/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/StringCastTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 StringCastTest/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StringCompare">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/StringCompare.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 StringCompare"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StringCompare/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/StringCompare.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 StringCompare/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StringTest">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/StringTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 StringTest"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StringTest/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/StringTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 StringTest/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EnumCast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/EnumCast.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 EnumCast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EnumCast/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/EnumCast.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 EnumCast/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EnumTest1">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/EnumTest1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 EnumTest1"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EnumTest1/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/EnumTest1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 EnumTest1/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StructTest">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/StructTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 StructTest"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StructTest/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/StructTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 StructTest/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StructTest2">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/StructTest2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 StructTest2"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StructTest2/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/StructTest2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 StructTest2/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FileCopy">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/FileCopy.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileCopy"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FileCopy/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/FileCopy.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileCopy/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FileTest1">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/FileTest1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileTest1"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FileTest1/fast">
+				<Option output="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/FileTest1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\win10\appdata\local\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileTest1/fast"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/win10/AppData/Local/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day1/Change.c">
+			<Option target="Change"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day1/DataType.c">
+			<Option target="DataType"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day1/Point.c">
+			<Option target="Point"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day2/Array.c">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day2/ArrayPoint.c">
+			<Option target="ArrayPoint"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day2/MorePoints.c">
+			<Option target="MorePoints"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day2/SecondPoint.c">
+			<Option target="SecondPoint"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day3/MemoryTest.c">
+			<Option target="MemoryTest"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day4/StringCastTest.c">
+			<Option target="StringCastTest"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day4/StringCompare.c">
+			<Option target="StringCompare"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day4/StringFInd.c">
+			<Option target="StringFInd"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day4/StringTest.c">
+			<Option target="StringTest"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day5/EnumCast.c">
+			<Option target="EnumCast"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day5/EnumTest1.c">
+			<Option target="EnumTest1"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day5/StructTest.c">
+			<Option target="StructTest"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day5/StructTest2.c">
+			<Option target="StructTest2"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day6/FileCopy.c">
+			<Option target="FileCopy"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day6/FileTest1.c">
+			<Option target="FileTest1"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day6/FileTest2.c">
+			<Option target="FileTest2"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/main.c">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

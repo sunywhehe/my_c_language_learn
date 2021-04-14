@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sunyouwei/sunyouwei/ndk/c/first_test/day3/MemoryTest.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+windows.h
+-
+
